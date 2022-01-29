@@ -3,8 +3,8 @@ import numpy as np
 import imageio
 import tensorflow as tf
 
-image_path = "./UNET/image/"
-label_path = "./UNET/label/"
+image_path = "./image/"
+label_path = "./label/"
 
 
 def getData():
